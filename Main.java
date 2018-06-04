@@ -2,6 +2,8 @@ package PicosAparatoInterfeisai;
 
 import java.util.Scanner;
 
+//kas cia bus//kas cia bus
+
 public class Main {
 
     public static void main (String [] arg) {
